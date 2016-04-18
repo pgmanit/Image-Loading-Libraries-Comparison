@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/url1"
+        android:title="URL 1 (1024*768)"></item>
+
+    <item
+        android:id="@+id/url2"
+        android:title="URL 2 (2048*1536)"></item>
+
+    <item
+        android:id="@+id/url3"
+        android:title="URL 3 (1366*1025)"></item>
+
+    <item
+        android:id="@+id/url4"
+        android:title="URL 4 (1800*1200)"></item>
+
+    <item
+        android:id="@+id/url5"
+        android:title="URL 5 (4000*2248)"></item>
+
+
+</menu>
